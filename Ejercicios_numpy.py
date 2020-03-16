@@ -37,8 +37,8 @@ print("7. Matriz de 3x3 del 0 al 8")
 print(matriz)
 print("\n")
 
-#Otra forma de llenar la matriz
-print("Otra forma de llenar la matriz")
+#Otra forma de llenar la matriz utilizando for anidado
+print("Otra forma de llenar la matriz utilizando for anidado")
 filas = 3
 columnas= 3
 ma = []
